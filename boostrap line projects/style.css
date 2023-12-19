@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+ 
+    height: 500px;
+    object-fit: cover;
+    
+}
+/* .imges img{
+    width: 100%;
+    max-width: 400px;
+} */
+/* .now{
+    width: 100%;
+    max-width: 500px;
+} */
+.imges img{
+    width: 100%;
+    max-width: 400px;
+}
+.custom-image img {
+    height: 500px; /* Set your desired height */
+    object-fit: cover; /* Preserve the aspect ratio and cover the entire container */
+  }
+  .main img{
+    height: 600px;
+    /* padding-left: 12px; */
+  }
